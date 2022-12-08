@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CExplosionInfoManager>
+  <aExplosionTagData>
+    <Item>
+      <name>EXP_TAG_BLIMP2</name>
+      <damageAtCentre value="100.000000" />
+      <damageAtEdge value="100.000000" />
+      <networkPlayerModifier value="0.000000" />
+      <networkPedModifier value="1.000000" />
+      <endRadius value="2.500000" />
+      <initSpeed value="100.000000" />
+      <decayFactor value="-0.050000" />
+      <forceFactor value="0.000000" />
+      <fRagdollForceModifier value="0.000000" />
+      <fSelfForceModifier value="0.000000" />
+      <directedWidth value="0.600000" />
+      <directedLifeTime value="0.350000" />
+      <camShakeName />
+      <camShake value="0.000000" />
+      <camShakeRollOffScaling value="1.000000" />
+      <shockingEventVisualRangeOverride value="0.000000" />
+      <shockingEventAudioRangeOverride value="0.000000" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_DIR_FLAME</vfxTagHashName>
+      <fragDamage value="0.000000" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="false" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="true" />
+      <bNoOcclusion value="false" />
+	  <bSuppressCrime value="true" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="false" />
+    </Item>
+  </aExplosionTagData>
+</CExplosionInfoManager>
